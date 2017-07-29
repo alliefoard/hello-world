@@ -15,7 +15,7 @@
 /* Header Color*/
 
 h1 {
-  color: #FFF;
+  color: #134316;
   font-size: 45px;
   font-weight: 700;
   margin: 0;
@@ -33,6 +33,7 @@ h1 {
 nav {
   background-color: #C1DFC3;
   opacity:0.5;
+
 }
 
 /* Header 2 box */
@@ -51,13 +52,23 @@ nav {
 
 }
 
-/* Header 2 Box with Round Corners */
+/* Header 2 font and Box with Round Corners */
 h2{
   color: #1E3F20;
   line-height: 20px;
   font-size: 45px;
+  font-weight: 30;
+  border-radius: 50px;
+}
+
+
+/* "About/Resume/Contact" Content Header*/
+.entry-title {
+  color: #4F5750;
+  line-height: 32px;
+  font-size: 48px;
   font-weight: 150;
-  border-radius: 23px;
+  text-align:right-center;
 }
 
 
