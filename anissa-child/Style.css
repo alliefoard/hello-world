@@ -33,7 +33,6 @@ h1 {
 nav {
   background-color: #C1DFC3;
   opacity:0.5;
-
 }
 
 /* Header 2 box */
@@ -41,24 +40,43 @@ h2{
   border-style: solid;
   border-width: 3px;
   border-color: rgb(160, 160, 160);
+  border-radius: 50px;
 }
 
-/* Nav Font */ NEEED HELP*****
-nav {
+/* Nav Font -portfolio */ 
+#menu-item-117 {
   color: #4F5750;
-  line-height: 32px;
-  font-size: 48px;
+  font-family: Helvetica;
+  line-height: 20px;
+  font-size: 20px;
   font-weight: 150;
-
 }
+
+/* Nav Font -Home*/ 
+#menu-item-115 {
+  color: #4F5750;
+  font-family: Helvetica;
+  line-height: 20px;
+  font-size: 20px;
+  font-weight: 150;
+}
+
+/* Nav Font -Contact*/ 
+#menu-item-116 {
+  color: #4F5750;
+  font-family: Helvetica;
+  line-height: 20px;
+  font-size: 20px;
+  font-weight: 150;
+}
+
 
 /* Header 2 font and Box with Round Corners */
-h2{
+h2 {
   color: #1E3F20;
   line-height: 20px;
   font-size: 45px;
   font-weight: 30;
-  border-radius: 50px;
 }
 
 
@@ -68,9 +86,13 @@ h2{
   line-height: 32px;
   font-size: 48px;
   font-weight: 150;
-  text-align:right-center;
+  text-align:center;
 }
 
+
+#primary {
+	width:100% !important;
+}
 
 
 
