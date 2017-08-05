@@ -21,7 +21,9 @@
 </div>
 <!-- #content -->
 
-<h3> Click to Email Allie! </h3>
+
+
+<h3>    Fill Out To Contact Allie </h3>
 
 <form name="Contact Allie" method="POST" 
 onsubmit="return" action="mailto:alliefoard@gmail.com" enctype="multipart/form-data">
