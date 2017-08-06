@@ -24,7 +24,7 @@
 <a href="https://www.facebook.com/allie.foard" class="fa fa-facebook" target="_blank"></a>
       <a href="https://twitter.com/alliefoard" class="fa fa-twitter" target="_blank"></a>
 
-<h3>    Fill Out To Contact Allie </h3>
+<h3>     Contact Allie </h3>
 
 <form name="Contact Allie" method="POST" 
 onsubmit="return" action="mailto:alliefoard@gmail.com" enctype="multipart/form-data">
