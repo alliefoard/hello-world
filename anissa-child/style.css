@@ -112,7 +112,6 @@ body {
 /* Facebook Icon Background */
 .fa-facebook {
   background: #C1DFC3;
-  color: WhiteSmoke;
   opacity:0.5;
   padding: 20px;
   font-size: 30px;
@@ -126,7 +125,6 @@ body {
 .fa-twitter {
   background: #C1DFC3;
   opacity:0.5;
-  color: WhiteSmoke;
   padding: 20px;
     font-size: 30px;
     width: 50px;
@@ -135,7 +133,13 @@ body {
     border-radius: 50%;
 }
 
-
+/* Facebook and Twitter Hovers */
+.fa-facebook:hover {
+    opacity: 0.7;
+}
+.fa-twitter: hover {
+  opacity: 0.7;
+}
 
 
 
