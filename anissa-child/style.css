@@ -109,6 +109,35 @@ body {
   background-color: #ebede8;
 }
 
+/* Facebook Icon Background */
+.fa-facebook {
+  background: #C1DFC3;
+  color: WhiteSmoke;
+  opacity:0.5;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+   border-radius: 50%;
+}
+
+/* Twitter Icon Background */
+.fa-twitter {
+  background: #C1DFC3;
+  opacity:0.5;
+  color: WhiteSmoke;
+  padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align:center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+
+
 
 
 
