@@ -21,6 +21,10 @@
 </div>
 <!-- #content -->
 
+<h4> Socail Media Accounts</h4>
+<a href="https://www.facebook.com/allie.foard" class="fa fa-facebook" target="_blank"></a>
+      <a href="https://twitter.com/alliefoard" class="fa fa-twitter" target="_blank"></a>
+
 
 
 <h3>    Fill Out To Contact Allie </h3>
@@ -33,6 +37,7 @@ Position <input value="Position" type="text" name="Position"/><br/><br/>
 Email <input value="Email" type="text" name="Email"/><br/><br/>
 <input type="Submit" value="Email Me!"/>
 </form>
+
 
 
 <?php
