@@ -13,4 +13,12 @@ function my_theme_enqueue_styles() {
 
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 
+
+// Google Fonts enqueue 
+function load_google_fonts() {
+wp_register_style('googleWebFonts', 'http://fonts.googleapis.com/css?family=Lato|Cardo|Heebo');
+wp_enqueue_style('googleWebFonts');
+}
+add_action('wp_print_styles', 'load_google_fonts');
+
 ?>
